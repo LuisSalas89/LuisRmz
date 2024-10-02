@@ -6,6 +6,8 @@ margin-right: 50px;
 
 .skill{
   display: flex;
+  flex-wrap: wrap;
+ 
 }
 
 .skilItem{
